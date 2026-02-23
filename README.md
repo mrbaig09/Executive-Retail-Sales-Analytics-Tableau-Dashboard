@@ -1,5 +1,3 @@
-# Executive-Retail-Sales-Analytics-Tableau-Dashboard
-
 # 📊 Executive Retail Sales Analytics — Tableau Dashboard
 
 ## 🔹 Project Overview
