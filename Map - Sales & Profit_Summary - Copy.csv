@@ -1,0 +1,521 @@
+﻿City,Country,State,City Sales % of State,Profit %,Latitude (generated),Longitude (generated),Sales
+Yuma,United States,Arizona,0.032412808,-0.554180398,32.7253,-114.6244,840.865
+York,United States,Pennsylvania,0.023728113,-0.131709935,39.9624,-76.7274,2246.974
+Yonkers,United States,New York,0.025417076,0.360533323,40.9312,-73.8987,6901.032
+Woonsocket,United States,Rhode Island,0.005519385,0.490046083,42.0029,-71.5148,91.14
+Woodstock,United States,Illinois,0.018085444,-0.013164074,42.315,-88.4475,848.4
+Woodland,United States,California,0.000617739,0.126141267,38.6786,-121.7733,264.662
+Woodbury,United States,Minnesota,0.064853924,0.3,44.9232,-92.9588,535.41
+Wilson,United States,North Carolina,0.003987636,-0.127227227,35.7213,-77.9155,191.808
+Wilmington,United States,North Carolina,0.001215160,0.195774166,34.2257,-77.9447,58.45
+Wilmington,United States,Delaware,0.127681104,0.251935724,39.7459,-75.5466,2425.966
+Wichita,United States,Kansas,0.474698254,0.378236277,37.6922,-97.3375,676.07
+Whittier,United States,California,0.001038118,0.1,33.9749,-118.0337,444.768
+Wheeling,United States,West Virginia,1,0.153676568,40.064,-80.7209,1209.824
+Wheeling,United States,Illinois,0.015713744,-0.397912207,42.1392,-87.929,737.142
+Westminster,United States,California,0.008931649,0.199571269,33.7578,-117.9859,3826.646
+Westland,United States,Michigan,0.021269860,0.173700106,42.3238,-83.4005,1137.4
+Westfield,United States,New Jersey,0.018921655,0.294727546,40.659,-74.3474,519.72
+West Palm Beach,United States,Florida,0.001803436,0.35,26.7153,-80.0534,72.224
+West Allis,United States,Wisconsin,0.012827893,0.113265730,43.0167,-88.007,250.48
+Waynesboro,United States,Virginia,0.009079967,0.318704967,38.0677,-78.8902,334.2
+Waukesha,United States,Wisconsin,0.002791122,0.26,43.0117,-88.2315,54.5
+Watertown,United States,New York,0.008636794,0.292845940,43.9748,-75.9108,2344.99
+Waterloo,United States,Iowa,0.018093715,0.39,42.4983,-92.3369,30.32
+Waterbury,United States,Connecticut,0.142499804,0.255595901,41.5582,-73.0515,1326.06
+Washington,United States,District of Columbia,1,0.437693374,38.895,-77.0366,194.83
+Warwick,United States,Rhode Island,0.146968002,0.438345997,41.7002,-71.4161,2426.84
+Warner Robins,United States,Georgia,0.001167916,0.25,32.621,-83.5999,41.86
+Waco,United States,Texas,0.006668400,-0.858104639,31.5493,-97.1467,606.1072
+Visalia,United States,California,0.000725568,0.272029209,36.3302,-119.2921,310.86
+Virginia Beach,United States,Virginia,0.109725509,0.172418616,36.853,-75.9774,4038.59
+Vineland,United States,New Jersey,0.023185908,0.093210289,39.4862,-75.0257,636.846
+Vancouver,United States,Washington,0.005594249,0.109858249,45.6307,-122.6745,686.836
+Vallejo,United States,California,0.004969808,0.260941703,38.1041,-122.2566,2129.248
+Utica,United States,New York,0.000590840,0.128224660,43.1009,-75.2327,160.42
+Urbandale,United States,Iowa,0.088988614,0.387057403,41.6275,-93.7381,149.12
+Tyler,United States,Texas,0.003256838,-1.230899730,32.3513,-95.3011,296.022
+Twin Falls,United States,Idaho,0.475295755,0.231688292,42.2729,-114.6972,1148.806
+Tuscaloosa,United States,Alabama,0.018534576,0.290326693,33.2096,-87.5675,175.7
+Tulsa,United States,Oklahoma,0.286237202,0.281284067,36.1012,-95.9251,4161.7
+Tucson,United States,Arizona,0.096863941,-0.164498902,32.2217,-110.9265,2512.88
+Troy,United States,Ohio,0.137587214,-0.099412907,40.0395,-84.2033,7429.321
+Troy,United States,New York,0.018008731,0.165821236,42.7284,-73.6918,4889.58
+Trenton,United States,Michigan,0.012257566,0.329531176,42.1407,-83.1801,655.47
+Torrance,United States,California,0.007310924,0.174043537,33.8358,-118.3406,3132.268
+Toledo,United States,Ohio,0.036313769,0.122647680,41.6787,-83.5127,1960.841
+Tigard,United States,Oregon,0.020993597,0.122622538,45.4307,-122.7719,270.814
+Thousand Oaks,United States,California,0.000443636,0.440102068,34.1706,-118.8376,190.07
+Thornton,United States,Colorado,0.008157841,0.164164382,39.93,-104.93,306.36
+Thomasville,United States,North Carolina,0.003145320,0.220724824,35.8832,-80.0818,151.292
+The Colony,United States,Texas,0.001564046,0.222696961,33.089,-96.8864,142.16
+Texarkana,United States,Arkansas,0.009915184,0.37,33.4418,-94.0377,48.9
+Tempe,United States,Arizona,0.015009887,-0.107923635,33.4144,-111.9094,389.392
+Taylor,United States,Michigan,0.005646780,0.11,42.2409,-83.2697,301.96
+Tampa,United States,Florida,0.065570455,-0.197271822,27.9478,-82.4584,2625.9655
+Tamarac,United States,Florida,0.035209400,-0.247768899,26.2129,-80.2498,1410.066
+Tallahassee,United States,Florida,0.180844067,0.055056560,30.4381,-84.2809,7242.443
+Superior,United States,Wisconsin,0.065686616,0.396938586,46.7208,-92.1041,1282.61
+Sunnyvale,United States,California,0.001484957,0.168980840,37.3688,-122.0363,636.21
+Summerville,United States,South Carolina,0.197234433,0.483887551,33.0185,-80.1756,406.94
+Suffolk,United States,Virginia,0.033272836,0.226251419,36.7282,-76.5836,1224.65
+Stockton,United States,California,0.002865301,0.276577387,37.9577,-121.2908,1227.6
+Sterling Heights,United States,Michigan,0.000218421,0.3,42.5803,-83.0302,11.68
+Springfield,United States,Virginia,0.241309776,0.256825930,38.7891,-77.187,8881.72
+Springfield,United States,Oregon,0.248866459,-0.173192752,44.0462,-123.022,3210.337
+Springfield,United States,Ohio,0.076497871,-0.246129332,39.9242,-83.8088,4130.669
+Springfield,United States,Missouri,0.551461069,0.111239795,37.2153,-93.2983,7484.38
+Springdale,United States,Arkansas,0.000871887,0.33,36.1867,-94.1288,4.3
+Spokane,United States,Washington,0.020227476,0.076481617,47.6589,-117.4247,2483.436
+Sparks,United States,Nevada,0.203168233,0.082465157,39.5348,-119.7528,2482.6
+Southaven,United States,Mississippi,0.099744236,0.401292821,34.989,-90.0126,839.25
+Smyrna,United States,Tennessee,0.002654354,0.106386016,35.9828,-86.5186,111.384
+Smyrna,United States,Georgia,0.059428101,0.333384648,33.884,-84.5147,2130
+Skokie,United States,Illinois,0.011532903,-0.674814423,42.0334,-87.7334,541.016
+Sioux Falls,United States,South Dakota,0.977891643,0.300947505,43.55,-96.7003,1127.91
+Sierra Vista,United States,Arizona,0.002932346,0.221212798,31.5545,-110.3037,76.072
+Shelton,United States,Connecticut,0.007880119,0.291903723,41.3165,-73.0932,73.33
+Sheboygan,United States,Wisconsin,0.004083744,0.430673439,43.7508,-87.7145,79.74
+Seattle,United States,Washington,0.894017871,0.311791257,47.6038,-122.3301,109763.382
+Scottsdale,United States,Arizona,0.040580721,0.181190870,33.5091,-111.8992,1052.76
+Santa Clara,United States,California,0.000210888,0.304157075,37.3541,-121.9552,90.352
+Santa Barbara,United States,California,0.009072724,0.126653114,34.4098,-119.697,3887.088
+Santa Ana,United States,California,0.008107154,0.244229634,33.7495,-117.8732,3473.402
+Sanford,United States,Florida,0.005631892,-0.052438084,28.8117,-81.268,225.546
+Sandy Springs,United States,Georgia,0.055126957,0.259430571,33.9868,-84.3481,1975.84
+San Mateo,United States,California,0.000175475,0.47,37.5446,-122.3091,75.18
+San Luis Obispo,United States,California,8.449323158e-06,0.33,35.2828,-120.6596,3.62
+San Jose,United States,California,0.007896236,0.240625332,37.2751,-121.8261,3383.037
+San Francisco,United States,California,0.184136333,0.173167977,37.7648,-122.463,78890.76
+San Diego,United States,California,0.056951449,0.128424018,32.7174,-117.1628,24400.09
+San Clemente,United States,California,0.000210201,0.472383353,33.427,-117.6124,90.058
+San Antonio,United States,Texas,0.047549284,-0.005367629,29.4246,-98.4951,4321.871
+San Angelo,United States,Texas,0.007158306,-0.089993791,31.4648,-100.4398,650.636
+Salt Lake City,United States,Utah,0.148570831,0.391882433,40.767,-111.8904,636.336
+Salinas,United States,California,0.000576965,0.219379999,36.6777,-121.656,247.193
+Salem,United States,Virginia,0.062846306,0.284232861,37.2934,-80.0547,2313.14
+Salem,United States,Oregon,0.373042979,-0.452651327,44.9392,-123.0331,4812.194
+Saint Petersburg,United States,Florida,0.000426688,0.0625,27.77,-82.65,17.088
+Saint Peters,United States,Missouri,0.051367862,0.21,38.8,-90.62,697.16
+Saint Paul,United States,Minnesota,0.023357394,0.129047347,44.9504,-93.1015,192.83
+Saint Louis,United States,Missouri,0.007048382,0.279504495,38.63,-90.19,95.66
+Saint Cloud,United States,Minnesota,0.161322637,0.352610713,45.5616,-94.1642,1331.82
+Saint Charles,United States,Missouri,0.018333455,0.339310345,38.79,-90.5,248.82
+Saint Charles,United States,Illinois,0.000646847,-1.05,41.9142,-88.3087,30.344
+Saginaw,United States,Michigan,0.007402749,0.194968171,43.42,-83.949,395.86
+Sacramento,United States,California,0.013334465,0.348994604,38.4732,-121.2981,5712.974
+Round Rock,United States,Texas,0.054570797,-0.240381614,30.5082,-97.6789,4960.0736
+Roswell,United States,Georgia,0.134573958,0.389771279,34.0233,-84.36,4823.35
+Roseville,United States,Minnesota,0.006104925,0.46,45.0061,-93.1566,50.4
+Roseville,United States,Michigan,0.011937041,0.421278806,42.4973,-82.9371,638.33
+Roseville,United States,California,0.005233100,0.396698114,38.7521,-121.288,2242.052
+Rome,United States,New York,0.004647646,0.316097283,43.2128,-75.4557,1261.89
+Rogers,United States,Arkansas,0.008193713,0.46,36.332,-94.1185,40.41
+Rockville,United States,Maryland,0.030489016,0.271514392,39.084,-77.1528,442.95
+Rockford,United States,Illinois,0.064750410,-0.382679283,42.2714,-89.094,3037.484
+Rochester Hills,United States,Michigan,0.002478180,0.41,42.6584,-83.1499,132.52
+Rochester,United States,New York,0.009012873,0.093945609,43.1573,-77.6152,2447.1
+Rochester,United States,Minnesota,0.231890237,0.261143126,44.0233,-92.463,1914.4
+Riverside,United States,California,0.002757504,0.120141085,33.9534,-117.3962,1181.416
+Richmond,United States,Virginia,0.106616530,0.279733650,37.5385,-77.4343,3924.16
+Richmond,United States,Kentucky,0.208787780,0.328520443,37.7479,-84.2947,4516.42
+Richmond,United States,Indiana,0.114683106,0.297161172,39.8287,-84.8899,5043.56
+Richardson,United States,Texas,0.014175698,-0.019006585,32.9482,-96.7297,1288.464
+Renton,United States,Washington,0.010121182,0.149225515,47.4799,-122.2034,1242.632
+Reno,United States,Nevada,0.013372801,0.340005997,39.5293,-119.8137,163.408
+Redwood City,United States,California,9.780675072e-05,0.3375,37.4852,-122.2364,41.904
+Redondo Beach,United States,California,0.000785087,0.462433107,33.8456,-118.3887,336.36
+Redmond,United States,Washington,0.000449846,0.375379323,47.6694,-122.1239,55.23
+Redmond,United States,Oregon,0.025678074,-0.592723167,44.2726,-121.1739,331.243
+Redlands,United States,California,0.000290778,0.356399904,34.0557,-117.1889,124.58
+Reading,United States,Pennsylvania,0.003302924,-0.087966468,40.3353,-75.9279,312.776
+Rancho Cucamonga,United States,California,0.000447721,0.312564905,34.1033,-117.5752,191.82
+Raleigh,United States,North Carolina,0.072938853,0.096680831,35.7804,-78.6391,3508.408
+Quincy,United States,Massachusetts,0.206603560,0.307624214,42.2529,-71.0023,3594.81
+Quincy,United States,Illinois,0.007562888,0.209656407,39.9356,-91.4099,354.78
+Pueblo,United States,Colorado,0.085375607,-1.199590918,38.2544,-104.6091,3206.2
+Provo,United States,Utah,0.426449575,0.142358790,40.2338,-111.6585,1826.504
+Providence,United States,Rhode Island,0.731940426,0.360207689,41.824,-71.4128,12086.32
+Portland,United States,Oregon,0.165661925,-0.101238271,45.5202,-122.6742,2137.012
+Port Saint Lucie,United States,Florida,0.000425240,-0.079213153,27.2939,-80.3503,17.03
+Port Orange,United States,Florida,0.000195366,0.375,29.1383,-80.9956,7.824
+Port Arthur,United States,Texas,0.000374597,0.323919173,29.8988,-93.9288,34.048
+Pompano Beach,United States,Florida,0.002258290,0.165927687,26.2379,-80.1248,90.44
+Pomona,United States,California,0.000983623,0.293399934,34.0554,-117.7517,421.42
+Pocatello,United States,Idaho,0.351342182,0.094427972,42.8689,-112.4401,849.206
+Plano,United States,Texas,0.014148634,-0.007747876,33.0137,-96.6925,1286.004
+Plainfield,United States,New Jersey,0.161914275,0.272866150,40.6337,-74.4074,4447.29
+Pine Bluff,United States,Arkansas,0.043170588,0.329739326,34.2284,-92.0032,212.91
+Pico Rivera,United States,California,0.000340540,0.43,33.9831,-118.0967,145.9
+Phoenix,United States,Arizona,0.550720428,-0.380113533,33.4486,-112.0773,14286.992
+Philadelphia,United States,Pennsylvania,0.944206017,-0.117814031,40.0115,-75.1327,89413.193
+Pharr,United States,Texas,0.016950890,-0.154184180,26.1948,-98.1836,1540.708
+Perth Amboy,United States,New Jersey,0.052073143,0.390884786,40.5068,-74.2654,1430.29
+Peoria,United States,Illinois,0.002770373,-0.125350877,40.6939,-89.5891,129.96
+Peoria,United States,Arizona,0.028393861,-0.057509598,33.5766,-112.2398,736.604
+Pensacola,United States,Florida,5.528366099e-05,-0.666666667,30.4213,-87.2169,2.214
+Pembroke Pines,United States,Florida,0.031335948,0.068218372,26.01,-80.34,1254.942
+Pearland,United States,Texas,0.005445953,0.079623068,29.564,-95.2864,494.996
+Paterson,United States,New Jersey,0.054555036,0.281742989,40.9168,-74.1718,1498.46
+Passaic,United States,New Jersey,0.056871493,0.228424427,40.8568,-74.1285,1562.086
+Pasco,United States,Washington,0.003499008,0.284691521,46.2396,-119.1006,429.592
+Pasadena,United States,Texas,0.029296008,-0.134845985,29.6911,-95.2091,2662.786
+Pasadena,United States,California,0.014309284,0.146947341,34.1476,-118.1445,6130.622
+Parma,United States,Ohio,0.068307572,0.009769017,41.3822,-81.7356,3688.416
+Parker,United States,Colorado,0.121562754,-0.007013643,39.5185,-104.7613,4565.174
+Park Ridge,United States,Illinois,0.009171819,0.171087446,42.0111,-87.8406,430.256
+Palm Coast,United States,Florida,0.000796095,0.099209585,29.5541,-81.2208,31.882
+Palatine,United States,Illinois,0.002479437,0.2,42.1103,-88.0342,116.312
+Oxnard,United States,California,0.003031183,0.221335135,34.1975,-119.1771,1298.67
+Overland Park,United States,Kansas,0.426137999,0.335340990,38.9822,-94.6708,606.91
+Ormond Beach,United States,Florida,7.011586272e-05,-0.7,29.2858,-81.0559,2.808
+Orlando,United States,Florida,0.041107422,0.225514223,28.5421,-81.379,1646.27
+Orem,United States,Utah,0.016488258,0.329934863,40.2975,-111.6945,70.62
+Orange,United States,New Jersey,0.004704929,0.322468467,40.77,-74.23,129.23
+Ontario,United States,California,0.000662688,-0.1625,34.0658,-117.6484,283.92
+Omaha,United States,Nebraska,0.829603785,0.287381176,41.2587,-95.9379,5525.8
+Olympia,United States,Washington,0.001378778,0.299171196,47.045,-122.8949,169.28
+Olathe,United States,Kansas,0.075789385,0.25,38.8844,-94.8161,107.94
+Oklahoma City,United States,Oklahoma,0.285116106,0.242933879,35.473,-97.5171,4145.4
+Odessa,United States,Texas,0.006997369,-0.094329317,31.8457,-102.3677,636.008
+Oceanside,United States,New York,0.007038475,0.121815798,40.6387,-73.6401,1911.028
+Oceanside,United States,California,0.002243291,0.163815305,33.1959,-117.3795,961.108
+Oakland,United States,California,0.031815581,0.146836709,37.8045,-122.2714,13630.962
+Oak Park,United States,Michigan,0.010862327,0.26,42.4595,-83.1827,580.86
+Oak Park,United States,Illinois,0.000217264,0.1,41.885,-87.7845,10.192
+Norwich,United States,Connecticut,0.002331905,0.49,41.5243,-72.0759,21.7
+North Las Vegas,United States,Nevada,0.524840848,0.284958701,36.2008,-115.1121,6413.256
+North Charleston,United States,South Carolina,0.007153832,0.29,32.8546,-79.9748,14.76
+Norman,United States,Oklahoma,0.092943008,0.199454389,35.2226,-97.4395,1351.33
+Noblesville,United States,Indiana,0.060915139,0.09,40.0456,-86.0086,2678.94
+Niagara Falls,United States,New York,0.000128878,0.326697531,43.1031,-79.0303,34.992
+Newport News,United States,Virginia,0.067976678,0.423448043,37.0168,-76.4505,2501.97
+Newark,United States,Ohio,0.058871060,-0.090349813,40.0581,-82.4013,3178.871
+Newark,United States,Delaware,0.857647468,0.441064971,39.6852,-75.7508,16295.47
+New York City,United States,New York,0.894104509,0.232281250,40.7648,-73.9808,242759.779000001
+New Rochelle,United States,New York,0.003291807,0.223885948,40.9115,-73.7826,893.764
+New Brunswick,United States,New Jersey,0.000537737,0.484542993,40.4862,-74.4518,14.77
+New Bedford,United States,Massachusetts,0.010561764,0.146901562,41.6362,-70.9342,183.77
+Nashville,United States,Tennessee,0.519190934,0.081840930,36.1622,-86.7744,21786.683
+Nashua,United States,New Hampshire,0.009234066,0.375976628,42.7654,-71.4676,35.94
+Naperville,United States,Illinois,0.008252454,0.259713583,41.7729,-88.1479,387.128
+Muskogee,United States,Oklahoma,0.118416654,0.257069524,35.663,-95.3928,1721.7
+Murray,United States,Utah,0.022861756,0.141248800,40.6668,-111.8884,97.918
+Murray,United States,Kentucky,0.012233012,0.356986622,36.6103,-88.3148,264.62
+Murfreesboro,United States,Tennessee,0.000723117,0.204392961,35.846,-86.392,30.344
+Mount Vernon,United States,New York,0.007548848,0.307588261,40.9126,-73.8371,2049.6
+Morristown,United States,New Jersey,0.087015147,0.459702976,40.797,-74.481,2390.04
+Morgan Hill,United States,California,0.001272090,0.014396066,37.1304,-121.6545,545.01
+Moreno Valley,United States,California,0.002064903,0.240948592,33.9375,-117.2306,884.68
+Moorhead,United States,Minnesota,0.007747440,0.31,46.8739,-96.7539,63.96
+Montgomery,United States,Alabama,0.106846506,0.285543313,32.367,-86.3006,1012.86
+Montebello,United States,California,6.507379272e-05,0.14,34.0159,-118.112,27.88
+Monroe,United States,North Carolina,0.020537924,0.111531064,34.9854,-80.5495,987.888
+Monroe,United States,Louisiana,0.131870076,0.348632357,32.5093,-92.1193,760.14
+Modesto,United States,California,0.000761256,0.061146712,37.6391,-120.9969,326.15
+Mobile,United States,Alabama,0.372932134,0.471275557,30.6488,-88.1946,3535.24
+Missouri City,United States,Texas,7.008282666e-05,-1.5,29.6186,-95.5377,6.37
+Mission Viejo,United States,California,0.001132769,0.304221751,33.5966,-117.6594,485.32
+Mishawaka,United States,Indiana,0.002919626,0.5,41.662,-86.1586,128.4
+Miramar,United States,Florida,0.038233920,0.021082268,25.9873,-80.2323,1531.192
+Minneapolis,United States,Minnesota,0.366591042,0.390277223,44.9773,-93.2655,3026.44
+Milwaukee,United States,Wisconsin,0.388922064,0.262483313,43.0115,-87.9735,7594.17
+Milford,United States,Connecticut,0.103349593,0.331746626,41.2223,-73.0565,961.74
+Middletown,United States,Connecticut,0.118234024,0.122289752,41.5623,-72.6506,1100.25
+Miami,United States,Florida,0.110139635,0.081114029,25.7743,-80.1937,4410.872
+Mesquite,United States,Texas,5.703443852e-05,0.35,32.7666,-96.5995,5.184
+Mesa,United States,Arizona,0.073306955,-0.076457548,33.4153,-111.8313,1901.756
+Meridian,United States,Idaho,0.136138755,0.289358521,43.6086,-116.3923,329.052
+Meriden,United States,Connecticut,0.026732012,0.469117221,41.5382,-72.807,248.76
+Mentor,United States,Ohio,0.012836412,-0.177851485,41.6662,-81.3396,693.13
+Memphis,United States,Tennessee,0.096395072,-0.362543316,35.149,-90.0516,4045.003
+Melbourne,United States,Florida,0.002387535,0.1,28.0836,-80.6081,95.616
+Medford,United States,Oregon,0.001921264,0.3125,42.3264,-122.8719,24.784
+Mcallen,United States,Texas,0.002436352,-0.013785302,26.2044,-98.2301,221.446
+Marysville,United States,Washington,0.000832252,0.032442748,48.0627,-122.1633,102.18
+Marlborough,United States,Massachusetts,0.011876166,0.327171893,42.3459,-71.5523,206.64
+Marion,United States,Ohio,0.004437862,0.200742806,40.5887,-83.1285,239.632
+Marion,United States,Iowa,0.213854343,0.458452115,42.0342,-91.5977,358.36
+Marietta,United States,Georgia,0.074597333,0.161276102,33.9528,-84.5496,2673.69
+Maple Grove,United States,Minnesota,0.106941566,0.436089232,45.076,-93.4561,882.87
+Manteca,United States,California,0.000734181,0.48,37.7986,-121.2117,314.55
+Mansfield,United States,Texas,0.006148772,-0.119509838,32.5632,-97.1417,558.877
+Manchester,United States,Connecticut,0.218413516,0.283571088,41.7759,-72.5215,2032.49
+Malden,United States,Massachusetts,0.013125623,0.136479552,42.4251,-71.0662,228.38
+Madison,United States,Wisconsin,0.093537401,0.232071966,43.0748,-89.3838,1826.43
+Lubbock,United States,Texas,0.000226774,-0.664350864,33.5779,-101.8552,20.612
+Lowell,United States,Massachusetts,0.272900083,0.294984373,42.6334,-71.3162,4748.34
+Loveland,United States,Colorado,0.000558235,0.213594734,40.3978,-105.075,20.964
+Louisville,United States,Kentucky,0.203635140,0.269547374,38.2542,-85.7594,4404.96
+Louisville,United States,Colorado,0.087060113,-1.078519297,39.9778,-105.1319,3269.46
+Los Angeles,United States,California,0.341402451,0.170268845,34.0544,-118.2439,146269.334
+Lorain,United States,Ohio,0.010990334,0.171209055,41.4528,-82.1824,593.447
+Longview,United States,Washington,0.000970960,0.326300646,46.1427,-122.9556,119.21
+Longmont,United States,Colorado,0.024367224,0.038056668,40.1672,-105.1019,915.088
+Long Beach,United States,New York,0.007195949,0.323997126,40.5885,-73.6579,1953.784
+Long Beach,United States,California,0.009108193,0.155847678,33.7775,-118.1885,3902.284
+Lodi,United States,California,0.000227105,0.29,38.1302,-121.2724,97.3
+Littleton,United States,Colorado,0.001925065,-1.366666667,39.6133,-105.0166,72.294
+Little Rock,United States,Arkansas,0.440288899,0.335504667,34.7465,-92.2896,2171.43
+Lincoln Park,United States,Michigan,0.003128431,0.177777778,42.2506,-83.1785,167.292
+Lehi,United States,Utah,0.350206208,0.3,40.3881,-111.8492,1499.95
+Lebanon,United States,Tennessee,0.009626060,0.191697942,36.2081,-86.2905,403.936
+League City,United States,Texas,0.003533869,-0.083403902,29.5075,-95.0949,321.202
+Lawton,United States,Oklahoma,0.040034142,0.134162386,34.6087,-98.3903,582.07
+Lawrence,United States,Massachusetts,0.190269924,0.286952594,42.707,-71.1631,3310.612
+Lawrence,United States,Indiana,0.023336092,0.321158943,39.8387,-86.0253,1026.28
+Laurel,United States,Maryland,0.010503034,0.302597156,39.0993,-76.8483,152.59
+Las Vegas,United States,Nevada,0.104105347,0.092445531,36.1663,-115.1492,1272.108
+Las Cruces,United States,New Mexico,0.014351438,0.42,32.314,-106.7798,41.37
+Laredo,United States,Texas,0.004116755,-0.344171286,27.5061,-99.5089,374.182
+Lansing,United States,Michigan,0.006296058,0.257213972,42.7338,-84.5554,336.68
+Lancaster,United States,Pennsylvania,0.009082017,-0.081730553,40.0381,-76.3057,860.037
+Lancaster,United States,Ohio,0.149237156,-0.890753569,39.7137,-82.5993,8058.385
+Lancaster,United States,California,0.000274524,0.348144810,34.6981,-118.1366,117.616
+Lakewood,United States,Ohio,0.030485631,-0.218589814,41.482,-81.7982,1646.138
+Lakewood,United States,New Jersey,0.454858426,0.226359511,40.0979,-74.2176,12493.57
+Lakewood,United States,California,0.002847914,0.007034867,33.8503,-118.1172,1220.151
+Lakeville,United States,Minnesota,0.013266098,0.408754565,44.6501,-93.2433,109.52
+Lakeland,United States,Florida,0.032259802,-0.160765685,28.0395,-81.9498,1291.9405
+Lake Forest,United States,California,0.003794110,0.201491323,33.647,-117.6892,1625.536
+Lake Charles,United States,Louisiana,0.082839056,0.46,30.2266,-93.2174,477.51
+Laguna Niguel,United States,California,0.000851988,0.166603200,33.5225,-117.7076,365.023
+Lafayette,United States,Louisiana,0.769795518,0.179546868,30.2241,-92.0198,4437.34
+Lafayette,United States,Indiana,0.446232375,0.457392174,40.4167,-86.8753,19624.51
+La Porte,United States,Texas,0.000334373,-1.070255330,29.6658,-95.0194,30.392
+La Porte,United States,Indiana,0.023223763,0.219821999,41.61,-86.72,1021.34
+La Mesa,United States,California,0.000857840,0.311231736,32.7678,-117.0231,367.53
+La Crosse,United States,Wisconsin,0.042527988,0.327640684,43.8014,-91.2396,830.41
+Knoxville,United States,Tennessee,0.075932284,-0.317254156,35.9604,-83.921,3186.328
+Kissimmee,United States,Florida,0.018777068,0.1125,28.292,-81.4078,751.984
+Kent,United States,Washington,0.009362822,0.453450820,47.3827,-122.227,1149.524
+Kent,United States,Ohio,0.005517733,-0.058218378,41.1537,-81.3579,297.942
+Kenosha,United States,Wisconsin,0.020482736,0.36,42.5847,-87.8212,399.95
+Kenner,United States,Louisiana,0.015495350,0.221648007,29.9942,-90.2418,89.32
+Keller,United States,Texas,6.601208162e-05,0.35,32.93,-97.2271,6
+Jupiter,United States,Florida,5.153815550e-05,0.075,26.9342,-80.0942,2.064
+Jonesboro,United States,Arkansas,0.084573069,0.458840566,35.8429,-90.7035,417.1
+Johnson City,United States,Tennessee,0.026309425,0.049075557,36.3134,-82.3535,1104.016
+Jefferson City,United States,Missouri,0.006382300,0.100000000,38.5774,-92.1724,86.62
+Jacksonville,United States,North Carolina,0.036704475,0.056227889,34.7541,-77.4302,1765.51
+Jacksonville,United States,Florida,0.271338800,-0.062391741,30.3322,-81.6557,10866.576
+Jackson,United States,Tennessee,0.137887318,-0.192984795,35.6145,-88.8139,5786.132
+Jackson,United States,Mississippi,0.704197280,0.272277452,32.299,-90.1848,5925.13
+Jackson,United States,Michigan,0.261310165,0.362200381,42.2465,-84.4017,13973.49
+Irving,United States,Texas,0.005685004,-0.209551714,32.814,-96.9489,516.724
+Iowa City,United States,Iowa,0.005961616,0.45,41.6613,-91.5299,9.99
+Inglewood,United States,California,0.056675520,0.309327098,33.9617,-118.3531,24281.872
+Indianapolis,United States,Indiana,0.146866757,0.259852886,39.7683,-86.1584,6458.94
+Independence,United States,Missouri,0.178115682,0.403605158,39.0911,-94.4155,2417.37
+Huntsville,United States,Texas,0.028882451,-0.241459040,30.7235,-95.5508,2625.1968
+Huntsville,United States,Alabama,0.260012574,0.405621691,34.7298,-86.5859,2464.81
+Huntington Beach,United States,California,0.005855381,0.347450591,33.6781,-118,2508.66
+Houston,United States,Texas,0.359606710,-0.220787190,29.7589,-95.3677,32685.5358
+Hot Springs,United States,Arkansas,0.043764688,0.273743514,34.5038,-93.0552,215.84
+Hoover,United States,Alabama,0.055471867,0.035594371,33.3849,-86.807,525.85
+Homestead,United States,Florida,0.003309828,0.168455399,25.4687,-80.4776,132.552
+Hollywood,United States,Florida,0.011294697,0.074859505,26.0112,-80.1495,452.33
+Holland,United States,Michigan,0.002437787,0.483728137,42.7876,-86.1091,130.36
+Hillsboro,United States,Oregon,0.001842349,0.132655895,45.5229,-122.9898,23.766
+Highland Park,United States,Illinois,0.012369429,-0.000409473,42.1817,-87.8003,580.258
+Hickory,United States,North Carolina,0.000847473,-0.026876656,35.7332,-81.3412,40.764
+Hialeah,United States,Florida,0.021706653,0.053172063,25.8576,-80.2781,869.308
+Hesperia,United States,California,0.003652072,0.137579054,34.4264,-117.3009,1564.6815
+Hendersonville,United States,Tennessee,0.007614800,-0.142038506,36.3048,-86.62,319.538
+Henderson,United States,Nevada,0.154512772,0.208173690,36.0391,-114.9819,1888.058
+Henderson,United States,Kentucky,0.447900135,0.287037366,37.7672,-87.5574,9688.81
+Hempstead,United States,New York,0.006184118,0.289788453,40.7063,-73.6187,1679.06
+Helena,United States,Montana,0.009434230,0.26,46.5927,-112.0361,39.9
+Hattiesburg,United States,Mississippi,0.176270083,0.321346198,31.3271,-89.2903,1483.14
+Harrisonburg,United States,Virginia,0.000627067,0.3,38.4493,-78.8689,23.08
+Harlingen,United States,Texas,0.005186393,0.038454277,26.1906,-97.6961,471.404
+Hampton,United States,Virginia,0.007905712,0.26,37.0301,-76.3452,290.98
+Hamilton,United States,Ohio,0.002294935,0.075,39.3995,-84.5613,123.92
+Hagerstown,United States,Maryland,0.003014830,0.47,39.6419,-77.7203,43.8
+Gulfport,United States,Mississippi,0.019788401,0.465922523,30.3674,-89.0928,166.5
+Grove City,United States,Ohio,0.002288786,0.106767647,39.8815,-83.093,123.588
+Gresham,United States,Oregon,0.048423554,-0.008715837,45.5067,-122.4367,624.656
+Greenwood,United States,Indiana,0.037860778,0.283314135,39.6137,-86.1067,1665.05
+Greenville,United States,North Carolina,0.017002672,0.028131664,35.6127,-77.3664,817.84
+Greensboro,United States,North Carolina,0.047462765,-0.037547892,36.0726,-79.792,2282.991
+Green Bay,United States,Wisconsin,0.002991878,0.379328997,44.5299,-88.0248,58.42
+Greeley,United States,Colorado,0.001616443,0.341374539,40.4233,-104.7091,60.704
+Great Falls,United States,Montana,0.990565770,0.347438404,47.5049,-111.2919,4189.38
+Grapevine,United States,Texas,0.000456892,0.211300809,32.9343,-97.0781,41.528
+Grand Rapids,United States,Michigan,0.009475317,0.442868618,42.9632,-85.6679,506.69
+Grand Prairie,United States,Texas,0.007215759,-0.006167036,32.746,-96.9978,655.858
+Grand Island,United States,Nebraska,0.002396119,0.5,40.9243,-98.3387,15.96
+Goldsboro,United States,North Carolina,0.000726476,0.0875,35.3849,-77.9928,34.944
+Glendale,United States,Arizona,0.089005637,0.061120252,33.539,-112.1858,2309.017
+Gladstone,United States,Missouri,0.012108834,0.32,39.2039,-94.5547,164.34
+Gilbert,United States,Arizona,0.034036600,-0.160954937,33.3528,-111.789,882.99
+Georgetown,United States,Kentucky,0.082583698,0.225456500,38.2098,-84.5588,1786.42
+Gastonia,United States,North Carolina,0.018608055,-0.016472192,35.2621,-81.1873,895.06
+Garland,United States,Texas,0.000650879,-0.420841785,32.9126,-96.6389,59.16
+Garden City,United States,Kansas,0.023374362,0.24,37.9717,-100.8727,33.29
+Gaithersburg,United States,Maryland,0.027940177,0.260004434,39.1434,-77.2014,405.92
+Frisco,United States,Texas,0.000333757,-0.575,33.1507,-96.8236,30.336
+Fresno,United States,California,0.007339348,0.211664789,36.6714,-119.8155,3144.446
+Fremont,United States,Nebraska,0.168000096,0.160382481,41.4338,-96.4985,1119.01
+Freeport,United States,Illinois,0.003636104,-0.770401942,42.2967,-89.6212,170.572
+Franklin,United States,Wisconsin,0.224381088,0.285200499,42.8886,-88.0384,4381.31
+Franklin,United States,Tennessee,0.004401999,-0.144635123,35.9252,-86.8689,184.72
+Franklin,United States,Massachusetts,0.179757643,0.021943004,42.0834,-71.3967,3127.703
+Frankfort,United States,Illinois,0.001638519,0.35,41.4959,-87.8487,76.864
+Fort Worth,United States,Texas,0.026766777,-0.139705487,32.7532,-97.3327,2432.898
+Fort Lauderdale,United States,Florida,0.078388411,-0.007786866,26.1223,-80.1434,3139.299
+Fort Collins,United States,Colorado,0.024904157,-0.270186645,40.5509,-105.0668,935.252
+Florence,United States,South Carolina,0.487143944,0.067847357,34.1984,-79.7672,1005.09
+Florence,United States,Kentucky,0.035068555,0.281317708,38.9989,-84.6266,758.59
+Florence,United States,Alabama,0.001841854,0.461408935,34.7998,-87.6773,17.46
+Fayetteville,United States,North Carolina,0.063022443,0.029006156,35.053,-78.8787,3031.422
+Fayetteville,United States,Arkansas,0.369221972,0.432028183,36.0626,-94.1574,1820.94
+Farmington,United States,New Mexico,0.244859049,0.239466593,36.7304,-108.2089,705.84
+Fargo,United States,North Dakota,1,0.250187192,46.8772,-96.7898,919.91
+Fairfield,United States,Ohio,0.030845817,-0.013301076,39.3459,-84.5605,1665.587
+Fairfield,United States,Connecticut,0.377608147,0.230938895,41.1412,-73.2637,3513.907
+Fairfield,United States,California,0.023623019,0.076165916,38.2494,-122.04,10120.968
+Everett,United States,Washington,3.140694871e-05,0.3625,47.9673,-122.2014,3.856
+Everett,United States,Massachusetts,0.084648717,0.350221204,42.4084,-71.0537,1472.85
+Evanston,United States,Illinois,0.000255635,0.075000000,42.0447,-87.693,11.992
+Eugene,United States,Oregon,0.113569798,0.091490971,44.0505,-123.0951,1465.032
+Escondido,United States,California,5.452380911e-05,0.26,33.1217,-117.0815,23.36
+Englewood,United States,Colorado,0.003303399,0.110874927,39.6482,-104.988,124.056
+Encinitas,United States,California,0.002719074,0.166130249,33.037,-117.292,1164.951
+Elyria,United States,Ohio,3.377954432e-05,-0.766666667,41.3684,-82.1076,1.824
+Elmhurst,United States,Illinois,0.005116961,-0.190357024,41.8995,-87.9403,240.04
+Elkhart,United States,Indiana,0.003898065,0.097253106,41.682,-85.9767,171.43
+El Paso,United States,Texas,0.015805295,-0.109909981,31.8064,-106.2221,1436.582
+El Cajon,United States,California,0.000903601,0.0125,32.7948,-116.9625,387.136
+Edmonds,United States,Washington,0.008649796,0.268269519,47.8106,-122.3775,1061.982
+Edmond,United States,Oklahoma,0.065996806,0.253351988,35.6571,-97.4649,959.55
+Edinburg,United States,Texas,0.000971214,0.315018805,26.3014,-98.1625,88.276
+Eau Claire,United States,Wisconsin,0.057278426,0.194680937,44.8113,-91.4985,1118.43
+East Orange,United States,New Jersey,0.013735421,0.462849153,40.7673,-74.2049,377.27
+Eagan,United States,Minnesota,0.016878179,0.379288072,44.8182,-93.1659,139.34
+Durham,United States,North Carolina,0.000630677,0.193947785,35.994,-78.8986,30.336
+Dublin,United States,Ohio,0.032431992,0.008384078,40.0992,-83.1141,1751.236
+Dublin,United States,California,5.134947775e-05,0.0625,37.7022,-121.9358,22
+Draper,United States,Utah,0.035423371,0.382462431,40.5247,-111.8638,151.72
+Dover,United States,New Hampshire,0.041103669,0.36,43.1981,-70.8739,159.98
+Dover,United States,Delaware,0.014671428,0.191727651,39.1582,-75.5244,278.76
+Detroit,United States,Michigan,0.623588137,0.323970577,42.3487,-83.0567,33346.206
+Des Plaines,United States,Illinois,0.008182363,0.125,42.0416,-87.8874,383.84
+Des Moines,United States,Washington,0.010440986,0.373106009,47.3988,-122.3099,1281.896
+Des Moines,United States,Iowa,0.472692335,0.300730590,41.5911,-93.6037,792.1
+Denver,United States,Colorado,0.451294497,-0.028739079,39.7348,-104.9653,16947.937
+Deltona,United States,Florida,0.000445865,0.1125,28.9005,-81.2637,17.856
+Delray Beach,United States,Florida,0.005808630,0.111049591,26.4615,-80.0728,232.624
+Deer Park,United States,Texas,7.617794219e-05,-1.5,29.7052,-95.1238,6.924
+Decatur,United States,Illinois,0.040646652,-0.241884536,39.8454,-88.9524,1906.761
+Decatur,United States,Alabama,0.050609837,0.198229948,34.6059,-86.9833,479.76
+Dearborn Heights,United States,Michigan,0.005254071,0.320494732,42.337,-83.2733,280.96
+Dearborn,United States,Michigan,0.001137734,0.38,42.3223,-83.1763,60.84
+Davis,United States,California,7.562377633e-05,0.48,38.5454,-121.7446,32.4
+Danville,United States,Illinois,0.000924566,-1.6,40.1252,-87.6305,43.372
+Danville,United States,California,0.002704908,0.243718083,37.8216,-122,1158.882
+Danbury,United States,Connecticut,0.002950881,0.36,41.3948,-73.454,27.46
+Dallas,United States,Texas,0.161278975,-0.169902008,32.7763,-96.7969,14659.0416
+Cuyahoga Falls,United States,Ohio,0.000384131,-0.666666667,41.1348,-81.4848,20.742
+Cranston,United States,Rhode Island,0.115572187,0.086675976,41.781,-71.4371,1908.41
+Covington,United States,Washington,0.002987407,0.278034244,47.3658,-122.1002,366.78
+Costa Mesa,United States,California,0.005850181,0.167677878,33.6633,-117.9033,2506.432
+Corpus Christi,United States,Texas,0.000818022,0.3125,27.8003,-97.3956,74.352
+Coral Springs,United States,Florida,0.007964443,-0.044582393,26.2712,-80.2706,318.96
+Coral Gables,United States,Florida,0.001604275,0.347992155,25.7215,-80.2684,64.248
+Coppell,United States,Texas,0.000441137,0.168276137,32.9553,-97.0156,40.096
+Conroe,United States,Texas,0.001228617,0.062500000,30.3119,-95.4561,111.672
+Concord,United States,North Carolina,0.024873331,0.113313508,35.4094,-80.5797,1196.424
+Concord,United States,New Hampshire,0.949662265,0.247647686,43.2071,-71.537,3696.19
+Concord,United States,California,0.004505912,0.082832513,37.978,-122.0311,1930.498
+Commerce City,United States,Colorado,0.003897103,-0.225,39.8083,-104.9339,146.352
+Columbus,United States,Ohio,0.171706294,-0.019376530,39.9623,-83.0007,9271.655
+Columbus,United States,Indiana,0.134088616,0.333070063,39.2014,-85.9214,5896.98
+Columbus,United States,Georgia,0.405483512,0.231807951,32.461,-84.9877,14533.19
+Columbia,United States,Tennessee,0.080879290,-0.238975809,35.6151,-87.0353,3393.918
+Columbia,United States,South Carolina,0.308467791,0.266097354,34.0007,-81.0343,636.44
+Columbia,United States,Missouri,0.175182417,0.408925705,38.9519,-92.3337,2377.56
+Columbia,United States,Maryland,0.564437411,0.308854669,39.2156,-76.8582,8200.25
+Colorado Springs,United States,Colorado,0.037183285,0.087695425,38.834,-104.8253,1396.383
+College Station,United States,Texas,0.003202048,-0.404142357,30.6263,-96.3347,291.042
+Coachella,United States,California,0.000381737,0.288435341,33.6796,-116.1763,163.55
+Clovis,United States,New Mexico,0.038652096,0.104426494,34.4055,-103.2051,111.42
+Clinton,United States,Maryland,0.064625494,0.032156342,38.7651,-76.8983,938.891
+Cleveland,United States,Ohio,0.080280217,-0.113778180,41.5052,-81.6934,4334.905
+Clarksville,United States,Tennessee,0.012236946,-0.025785595,36.5286,-87.3099,513.496
+Citrus Heights,United States,California,0.000302005,0.42,38.7071,-121.2811,129.39
+Cincinnati,United States,Ohio,0.028215401,0.115431702,39.1015,-84.5125,1523.552
+Chula Vista,United States,California,0.000450008,0.29,32.6401,-117.0842,192.8
+Chico,United States,California,0.010546884,-0.018648621,39.7285,-121.8375,4518.672
+Chicago,United States,Illinois,0.653042029,-0.206972257,41.8756,-87.6244,30634.628
+Cheyenne,United States,Wyoming,1,0.0625,41.14,-104.8202,1603.136
+Chester,United States,Pennsylvania,0.003075260,-0.154608419,39.8496,-75.3557,291.217
+Chesapeake,United States,Virginia,0.065651261,0.194365290,36.7184,-76.2467,2416.38
+Chattanooga,United States,Tennessee,0.023563824,0.027499714,35.0456,-85.3097,988.803
+Charlottesville,United States,Virginia,0.000941415,0.3,38.0293,-78.4767,34.65
+Charlotte,United States,North Carolina,0.394194206,0.059790527,35.2271,-80.8431,18961.007
+Chapel Hill,United States,North Carolina,0.000291389,0.3375,35.9132,-79.0558,14.016
+Chandler,United States,Arizona,0.036736816,0.145968060,33.3067,-111.8408,953.04
+Cedar Rapids,United States,Iowa,0.166137541,0.29,41.9759,-91.6704,278.4
+Cedar Hill,United States,Texas,0.001268488,0.35,32.5889,-96.9559,115.296
+Carrollton,United States,Texas,0.018661593,0.043830437,33.001,-96.8922,1696.198
+Carlsbad,United States,New Mexico,0.145470919,0.376224782,32.4207,-104.2288,419.34
+Canton,United States,Michigan,0.015299377,0.182461956,42.3074,-83.4869,818.13
+Cambridge,United States,Massachusetts,0.005207030,0.404746137,42.3751,-71.1056,90.6
+Camarillo,United States,California,3.438080942e-05,0.49,34.2164,-119.0376,14.73
+Burlington,United States,Vermont,1,0.276444384,44.4724,-73.2115,3809.27
+Burlington,United States,North Carolina,0.263640422,-0.464821057,36.0957,-79.4378,12681.282
+Burlington,United States,Iowa,0.034271835,0.464415811,40.8075,-91.1129,57.43
+Buffalo,United States,New York,0.003807277,0.057947413,42.9333,-78.877,1033.72
+Bryan,United States,Texas,0.006784458,-0.346565346,30.6744,-96.37,616.656
+Brownsville,United States,Texas,0.003624908,-0.044942770,25.914,-97.4891,329.4768
+Broomfield,United States,Colorado,0.021129651,0.078695255,39.938,-105.0587,793.504
+Broken Arrow,United States,Oklahoma,0.111256082,0.223677322,36.0526,-95.7908,1617.59
+Bristol,United States,Tennessee,0.002584578,-0.197792653,36.5951,-82.1887,108.456
+Bridgeton,United States,New Jersey,0.001908112,0.065666857,39.4273,-75.2341,52.41
+Brentwood,United States,California,0.059373609,0.254670264,37.9318,-121.696,25437.832
+Boynton Beach,United States,Florida,0.011337221,0.099592541,26.5253,-80.0664,454.033
+Bowling Green,United States,Ohio,0.020961226,0.065886820,41.3748,-83.6513,1131.847
+Bowling Green,United States,Kentucky,0.009791680,0.316872669,36.9903,-86.4436,211.81
+Bolingbrook,United States,Illinois,0.003165166,0.1125,41.7003,-88.0718,148.48
+Boise,United States,Idaho,0.037223308,0.42,43.615,-116.2044,89.97
+Boca Raton,United States,Florida,0.001458250,-0.416369863,26.3587,-80.0831,58.4
+Bloomington,United States,Indiana,0.005975684,0.226444064,39.167,-86.5343,262.8
+Bloomington,United States,Illinois,0.002007049,0.137002931,40.4731,-88.9941,94.152
+Bethlehem,United States,Pennsylvania,0.016438736,-0.636311953,40.6179,-75.3787,1556.694
+Bellingham,United States,Washington,0.030871336,0.161095551,48.7544,-122.4789,3790.24
+Bellevue,United States,Washington,0.000530579,0.328654324,47.6144,-122.1923,65.142
+Belleville,United States,New Jersey,0.068868242,0.149951998,40.7937,-74.1501,1891.6
+Bedford,United States,Texas,0.002258669,0.018549801,32.844,-97.1431,205.296
+Beaumont,United States,Texas,0.000140474,0.075000000,30.086,-94.1018,12.768
+Bangor,United States,Maine,1,0.302000256,44.8012,-68.7778,547.33
+Baltimore,United States,Maryland,0.298990039,0.257598402,39.2909,-76.6108,4343.782
+Bakersfield,United States,California,0.005552410,0.206676192,35.3739,-119.0195,2378.856
+Austin,United States,Texas,0.094171801,-0.064359976,30.2711,-97.7437,8559.506
+Aurora,United States,Illinois,0.127531118,-0.142039940,41.7606,-88.3201,5982.568
+Aurora,United States,Colorado,0.114259947,-0.134815485,39.7294,-104.8319,4290.924
+Auburn,United States,Washington,3.404591432e-05,0.36,47.3075,-122.2302,4.18
+Auburn,United States,New York,0.004386177,0.198216304,42.932,-76.5672,1190.898
+Auburn,United States,Alabama,0.133750651,0.164329048,32.6099,-85.4808,1267.9
+Atlantic City,United States,New Jersey,0.000850477,0.5,39.3643,-74.4229,23.36
+Atlanta,United States,Georgia,0.256024628,0.357848118,33.7491,-84.3902,9176.34
+Athens,United States,Georgia,0.013597596,0.272283117,33.9596,-83.3767,487.36
+Asheville,United States,North Carolina,0.030170721,0.055460740,35.6009,-82.554,1451.232
+Arvada,United States,Colorado,0.013404679,0.118902662,39.8028,-105.0875,503.4
+Arlington Heights,United States,Illinois,0.000300827,0.087500000,42.0813,-87.9801,14.112
+Arlington,United States,Virginia,0.291159937,0.312655312,38.8769,-77.0893,10716.52
+Arlington,United States,Texas,0.021085403,-0.000425775,32.7356,-97.1071,1916.504
+Appleton,United States,Wisconsin,0.084489045,0.33,44.2611,-88.4068,1649.75
+Apple Valley,United States,Minnesota,0.001046559,0.29,44.7319,-93.2177,8.64
+Apple Valley,United States,California,0.013537954,0.180913996,34.5008,-117.1859,5800.156
+Apopka,United States,Florida,0.017763734,0.027642599,28.678,-81.5115,711.402
+Antioch,United States,California,4.537426580e-05,0.48,38.0049,-121.8058,19.44
+Andover,United States,Massachusetts,0.025049491,0.284934266,42.6572,-71.1409,435.85
+Anaheim,United States,California,0.058304503,0.145797194,33.8348,-117.9117,24979.788000000
+Amarillo,United States,Texas,0.008235940,-0.148380785,35.2072,-101.8338,748.5848
+Allentown,United States,Pennsylvania,0.000166933,0.234868421,40.6022,-75.4713,15.808
+Alexandria,United States,Virginia,0.002887006,0.232542819,38.8051,-77.047,106.26
+Albuquerque,United States,New Mexico,0.556666498,0.309435098,35.0841,-106.651,1604.668
+Akron,United States,Ohio,0.039474805,-0.046310816,41.0831,-81.5185,2131.528
+Abilene,United States,Texas,1.531480294e-05,-2.7,32.4465,-99.7333,1.392
+Aberdeen,United States,South Dakota,0.022108357,0.26,45.465,-98.4878,25.5
