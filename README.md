@@ -106,11 +106,5 @@ The dataset contains retail sales data with geographic coordinates for mapping.
 
 ---
 
-## 🔹 Author
-
-**Your Name**
-Aspiring Data Analyst / Data Engineer
-
----
 
 ## ⭐ If you found this project useful, please give it a star!
